@@ -9,9 +9,20 @@ theme = "PaperMod"
 [params]
   author = "叶胜超"
   defaultTheme = "auto"
+  # 显示阅读时间
   ShowReadingTime = true
+  # 文章底部显示分享按钮
   ShowShareButtons = true
+  # 显示字数统计
+  ShowWordCount = true
+  # 显示上一篇/下一篇导航
   ShowPostNavLinks = true
+  # 代码块一键复制按钮
+  ShowCodeCopyButtons = true
+  # 文章顶部显示面包屑导航
+  ShowBreadCrumbs = true
+  # 去掉底部版权
+  hideFooter = true
 
 [menu]
 
