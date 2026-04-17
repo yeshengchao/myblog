@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>即将跳转到胜超影视站...</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-bottom: 28px;
+    opacity: .92;
+  }
+  .count {
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 28px;
+    text-shadow: 0 4px 20px rgba(0,0,0,.2);
+  }
+  .tip {
+    font-size: .95rem;
+    opacity: .8;
+    margin-bottom: 32px;
+  }
+  a.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    background: rgba(255,255,255,.18);
+    border: 1px solid rgba(255,255,255,.35);
+    border-radius: 999px;
+    color: #fff;
+    text-decoration: none;
+    font-size: .95rem;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    transition: background .2s;
+  }
+  a.btn:active { background: rgba(255,255,255,.3); }
+  @media (max-width: 480px) {
+    .count { font-size: 4rem; }
+    h1 { font-size: 1.2rem; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>即将跳转到胜超影视站：film.shengchao.vip</h1>
+    <div class="count" id="count">5</div>
+    <div class="tip">页面将在 <span id="sec">5</span> 秒后自动跳转</div>
+    <a class="btn" href="https://film.shengchao.vip/">立即跳转</a>
+  </div>
+<script>
+  var url = "https://film.shengchao.vip/";
+  var n = 5;
+  var elCount = document.getElementById("count");
+  var elSec = document.getElementById("sec");
+  var t = setInterval(function () {
+    n--;
+    if (n <= 0) {
+      clearInterval(t);
+      location.replace(url);
+      return;
+    }
+    elCount.textContent = n;
+    elSec.textContent = n;
+  }, 1000);
+</script>
+</body>
+</html>
