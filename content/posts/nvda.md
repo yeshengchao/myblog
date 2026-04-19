@@ -1,7 +1,7 @@
 +++
 date = '2026-04-19T09:09:27+08:00'
 draft = false
-title = '胜超日常：NVDA（NVIDIA Corporation）美股分析'
+title = '胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析'
 +++
 
 
