@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hugo-github-cloudflare/</loc>
+    <loc>https://shengchao.vip/posts/</loc>
+    <lastmod>2026-04-19T09:09:27+08:00</lastmod>
+  </url><url>
+    <loc>https://shengchao.vip/</loc>
+    <lastmod>2026-04-19T09:09:27+08:00</lastmod>
+  </url><url>
+    <loc>https://shengchao.vip/posts/nvda/</loc>
+    <lastmod>2026-04-19T09:09:27+08:00</lastmod>
+  </url><url>
+    <loc>https://shengchao.vip/posts/hugo-github-cloudflare/</loc>
     <lastmod>2026-04-15T17:29:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-15T17:29:05+08:00</lastmod>
+    <loc>https://shengchao.vip/film/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-15T17:29:05+08:00</lastmod>
+    <loc>https://shengchao.vip/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
-    <lastmod>2026-04-15T17:09:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://shengchao.vip/tags/</loc>
   </url>
 </urlset>

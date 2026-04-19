@@ -2,18 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 胜超日常</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://shengchao.vip/posts/</link>
     <description>Recent content in Posts on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Apr 2026 17:29:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Apr 2026 09:09:27 +0800</lastBuildDate>
+    <atom:link href="https://shengchao.vip/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo &#43; GitHub &#43; Cloudflare Pages 建博客流程</title>
-      <link>http://localhost:1313/posts/hugo-github-cloudflare/</link>
+      <title>胜超日常：NVDA（NVIDIA Corporation）美股分析</title>
+      <link>https://shengchao.vip/posts/nvda/</link>
+      <pubDate>Sun, 19 Apr 2026 09:09:27 +0800</pubDate>
+      <guid>https://shengchao.vip/posts/nvda/</guid>
+      <description>&lt;p&gt;胜超日常：NVDA（NVIDIA Corporation）美股分析&lt;/p&gt;
+&lt;p&gt;一句话先定性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;NVDA 是当前 AI 时代的总龙头。&lt;/strong&gt;
+卖 GPU 芯片只是表面，本质是 &lt;strong&gt;AI 基础设施收费站&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人是谁中文名--真人照--性格&#34;&gt;① 创始人是谁（中文名 + 真人照 + 性格）&lt;/h1&gt;
+&lt;h3 id=&#34;创始人兼ceo&#34;&gt;创始人兼CEO：&lt;/h3&gt;
+&lt;p&gt;Jensen Huang（黄仁勋）&lt;/p&gt;
+&lt;p&gt;华裔企业家，1993 年创办 NVIDIA，把显卡公司做成全球 AI 核心公司。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/mg0WaBkJGo_i4AKfRsf12CyLdvzRJfG0-KHgjVZJpZscBSQTp9NsJEA4KQbTRu-ZJ1olhKETQQRgCqb7wh9Opf_EXzyoZk6G9sQgzZcvqcE93_1A5QpFCLFSiNcUG3fsai-gzTPpIsAkXlE9jnzG0VwWuHOy12fvrIWT9lUJP0XVFR7uYNGuoOBalbqBxaGE?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/Kk8sOIOF0iKM5EwPG2tdStjwuG3QYVVEZ9B5A7_n_AL56cVTVoFrSitCWXgBo_84IQJmmR4qzjxPKUEENk6G7tt2ykBaBry7V8rsnmAnHijVxlOefv_KmO2_cPSqukw6gQOmcSxcwWYyfuGN90nfXfgSs-EdjaqphL6lCgtNaMDCXERvR6Wgum6v8KL0lDiy?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/YIsRD8yG0uQByi6x0M5Q7kb7dfEl2fLl3kSeKiqQDyiWD-Y_DibrpCrTYRmb5RGjp0wmEJ1pdHPxKACGfTAi7_0_pES4l9if8KerryfXX1XBBoDC8eqraTpuujC5C7n25U9dwP6DO2NuGdkaov7ZIkOoLrPcbs4y1kNDOjHEu4x2O9Y3AnhpFlNSoKom3YG2?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/KYKpTED3nja-UrS-tcL8RBGNVZ2Enb9yRCcY8zBvVaz8SwLIY1r6zW3BwHbFaBj8Mlj4wZB-Id517rgMaSzNV3sUhUJZNaiozL7Ov2zNrh7v0cQbKNU2DdOKmxSt10hQ7JOFIe2NtLUmrO0MBHWphcnHYP21qmEyx3y_7aZnbIyVMaD51q274IoOBMQVTHuK?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/PtsWBv-66Yzu6sFdJ2REUnLaz-gvCnEERjMxxs5Kx5qO7LC79KBe2fhN_3ozZYFGONq9W7GLXnRMUaKx387ZOSKUMNvYJ-8dg7C_f2sfSuJprPSD1kD8szSNgoo9OqKRLuOV5AAc7w_vcBFlJXIYrhKgiUuyrc7FoqcoVuLJ0c95CUKvmQzwDyGyNPPfER4S?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/hc0UCvir4Q8BczfnR9LMyYNc1EitxgSiBmCef6XmBtvOV-TqcENBQB_Z41LMAoBxTh65J_kiyUtI_SfTUGra8J-X4WadLjgsId6F8VeaumuR8oXNaMKi2dynbYtl1mvv0WXv3OzvlPjiqoz-8RKBO_YeRFLLPGZi95WTdOVkNG2kLN-wzG4ZMpalPmcufc_m?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;人物画像&#34;&gt;人物画像：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;永远黑皮衣&lt;/li&gt;
+&lt;li&gt;演讲像摇滚明星&lt;/li&gt;
+&lt;li&gt;产品狂人&lt;/li&gt;
+&lt;li&gt;极强战略眼光&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;我的评价&#34;&gt;我的评价：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美股最强 CEO 阵容之一，科技圈现象级人物。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-公司到底干什么人话版&#34;&gt;② 公司到底干什么（人话版）&lt;/h1&gt;
+&lt;p&gt;一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;卖 AI 时代最关键的算力发动机。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;核心业务：&lt;/p&gt;
+&lt;h3 id=&#34;芯片端&#34;&gt;芯片端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GPU（H100 / H200 / Blackwell 等）&lt;/li&gt;
+&lt;li&gt;AI 加速卡&lt;/li&gt;
+&lt;li&gt;自动驾驶芯片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件端&#34;&gt;软件端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CUDA 生态&lt;/li&gt;
+&lt;li&gt;AI 开发工具链&lt;/li&gt;
+&lt;li&gt;企业 AI 平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-为什么存在解决真问题&#34;&gt;③ 为什么存在（解决真问题）&lt;/h1&gt;
+&lt;p&gt;AI 模型训练需要：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>胜超日常：Hugo &#43; GitHub &#43; Cloudflare Pages 建博客流程</title>
+      <link>https://shengchao.vip/posts/hugo-github-cloudflare/</link>
       <pubDate>Wed, 15 Apr 2026 17:29:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hugo-github-cloudflare/</guid>
-      <description>&lt;h2 id=&#34;hugo--github--cloudflare-pages-建博客流程&#34;&gt;Hugo + GitHub + Cloudflare Pages 建博客流程&lt;/h2&gt;
+      <guid>https://shengchao.vip/posts/hugo-github-cloudflare/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hugo + GitHub + Cloudflare Pages 建博客流程&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;整体架构&#34;&gt;整体架构&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;本地写文章 → push 到 GitHub → Cloudflare Pages 自动构建 → 绑定域名访问
 &lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
@@ -49,19 +105,6 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;登录 &lt;a href=&#34;https://dash.cloudflare.com&#34;&gt;Cloudflare Dashboard&lt;/a&gt; → &lt;strong&gt;Workers &amp;amp; Pages&lt;/strong&gt; → &lt;strong&gt;Create&lt;/strong&gt; → &lt;strong&gt;Pages&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>胜超日常：我的第一篇文章</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Wed, 15 Apr 2026 17:09:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;h3 id=&#34;首页默认&#34;&gt;首页默认&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;date = &amp;lsquo;2026-04-15T17:09:00+08:00&amp;rsquo;
-draft = false
-title = &amp;lsquo;胜超日常：我的第一篇文章&amp;rsquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;你好，这是我的博客。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
