@@ -16,7 +16,7 @@ title = '胜超日常：NVDA（NVIDIA Corporation）美股分析'
 
 ---
 
-# ① 创始人是谁?
+# ① 创始人是谁?(附真人照）
 
 ### 创始人兼CEO：
 
