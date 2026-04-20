@@ -23,6 +23,9 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   # 去掉底部版权
   hideFooter = true
+  # 允许支持HTML
+  [markup.goldmark.renderer]
+  unsafe = true
 
 [menu]
 
@@ -32,8 +35,33 @@ theme = "PaperMod"
   url = "/"
   weight = 1
 
+  
   [[menu.main]]
-  identifier = "posts"
-  name = "文章"
-  url = "/posts/"
+  name = "归档"
+  url = "/archives/"
   weight = 2
+
+[[menu.main]]
+  name = "标签"
+  url = "/tags/"
+  weight = 3
+
+[[menu.main]]
+  name = "搜索"
+  url = "/search/"
+  weight = 4
+  # 必须要加这个，才能搜索到
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
+  
+  
+
+[[menu.main]]
+  name = "友情链接"
+  url = "/links/"
+  weight = 5
+  
+  
+  
+  
+  

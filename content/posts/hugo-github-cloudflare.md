@@ -2,6 +2,7 @@
 date = '2026-04-15T17:29:05+08:00'
 draft = false
 title = '胜超日常：Hugo + GitHub + Cloudflare Pages 建博客流程'
+tags = ["hugo", "github", "cloudflare"]
 +++
 
 

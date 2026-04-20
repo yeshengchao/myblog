@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>胜超日常</title>
-    <link>https://shengchao.vip/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 20 Apr 2026 08:58:49 +0800</lastBuildDate>
-    <atom:link href="https://shengchao.vip/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）</title>
-      <link>https://shengchao.vip/posts/google/</link>
+      <link>http://localhost:1313/posts/google/</link>
       <pubDate>Mon, 20 Apr 2026 08:58:49 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/google/</guid>
+      <guid>http://localhost:1313/posts/google/</guid>
       <description>&lt;p&gt;胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)</title>
-      <link>https://shengchao.vip/posts/nvda/</link>
+      <link>http://localhost:1313/posts/nvda/</link>
       <pubDate>Sun, 19 Apr 2026 09:09:27 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/nvda/</guid>
+      <guid>http://localhost:1313/posts/nvda/</guid>
       <description>&lt;p&gt;胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -147,9 +147,9 @@
     </item>
     <item>
       <title>胜超日常：Hugo &#43; GitHub &#43; Cloudflare Pages 建博客流程</title>
-      <link>https://shengchao.vip/posts/hugo-github-cloudflare/</link>
+      <link>http://localhost:1313/posts/hugo-github-cloudflare/</link>
       <pubDate>Wed, 15 Apr 2026 17:29:05 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/hugo-github-cloudflare/</guid>
+      <guid>http://localhost:1313/posts/hugo-github-cloudflare/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hugo + GitHub + Cloudflare Pages 建博客流程&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;整体架构&#34;&gt;整体架构&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;本地写文章 → push 到 GitHub → Cloudflare Pages 自动构建 → 绑定域名访问
@@ -189,9 +189,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://shengchao.vip/film/</link>
+      <link>http://localhost:1313/film/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shengchao.vip/film/</guid>
+      <guid>http://localhost:1313/film/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;zh-CN&#34;&gt;
 &lt;head&gt;
@@ -279,6 +279,19 @@
 &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://film.shengchao.vip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;胜超影视站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nav.shengchao.vip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;胜超导航站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yyy.kim/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;耶耶耶黄金网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jjj.pub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J³小酒馆&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://btb.pub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BTB.PUB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ysc.pub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;艺术村&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shengchao.vip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;胜超日常&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

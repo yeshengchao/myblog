@@ -2,6 +2,7 @@
 date = '2026-04-20T08:58:49+08:00'
 draft = false
 title = '胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）'
+tags = ["谷歌", "google", "美股", "美股七姐妹"]
 +++
 
 胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）
