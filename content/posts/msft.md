@@ -1,6 +1,6 @@
 +++
 date = '2026-04-22T11:18:05+08:00'
-draft = true
+draft = false
 title = '胜超日常：MSFT（Microsoft Corporation）美股分析（4）'
 tags = ["MSFT", "Microsoft", "美股", "美股七姐妹"]
 +++
