@@ -2,10 +2,10 @@
 date = '2026-04-21T10:59:01+08:00'
 draft = false
 title = '胜超日常：AAPL（Apple Inc.）美股分析（3）'
-tags = ["apple", "aapl", "美股", "美股七姐妹"]
+tags = ["apple", "苹果", "美股", "美股七姐妹"]
 +++
 
-**胜超日常：AAPL（Apple Inc.）美股分析（3)**
+**胜超日常：苹果AAPL（Apple Inc.）美股分析（3)**
 
 一句话先定性：
 

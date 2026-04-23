@@ -6,7 +6,7 @@ tags = ["MSFT", "Microsoft", "美股", "美股七姐妹"]
 +++
 
 
-胜超日常：MSFT（Microsoft Corporation）美股分析（4）
+胜超日常：微软MSFT（Microsoft Corporation）美股分析（4）
 
 一句话先定性：
 
