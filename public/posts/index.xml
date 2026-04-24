@@ -6,8 +6,88 @@
     <description>Recent content in Posts on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:53:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:34:55 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）</title>
+      <link>http://localhost:1313/posts/avgo/</link>
+      <pubDate>Fri, 24 Apr 2026 10:34:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/avgo/</guid>
+      <description>&lt;p&gt;胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）&lt;/p&gt;
+&lt;p&gt;一句话先定性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AVGO 是AI时代最强幕后收租王之一。&lt;/strong&gt;
+本质是 &lt;strong&gt;AI定制芯片 + 数据中心网络芯片 + VMware软件现金流 + 股东回报机器&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你可以理解成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NVIDIA Corporation 卖明星GPU，AVGO 在背后靠连接、交换、ASIC 持续赚钱。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人--当前掌门人&#34;&gt;① 创始人 + 当前掌门人&lt;/h1&gt;
+&lt;h2 id=&#34;公司背景&#34;&gt;公司背景&lt;/h2&gt;
+&lt;p&gt;Broadcom 通过长期并购整合成为今天的超级科技巨头，真正灵魂人物是现任掌门人。&lt;/p&gt;
+&lt;h2 id=&#34;当前-ceo&#34;&gt;当前 CEO&lt;/h2&gt;
+&lt;h3 id=&#34;hock-tan陈福阳&#34;&gt;Hock Tan（陈福阳）&lt;/h3&gt;
+&lt;p&gt;全球顶级科技并购型 CEO，把 Broadcom 做到接近 &lt;strong&gt;2万亿美元市值&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/8d4TkNcsp_XRKkAh9cOgNpvEPm4R5_6kbmA85HbHBOwwn0X7P4IgVlVQLjkBCAz95_KAesUDU5d4uRTbLU5FB7cuDc_SOjOswEbeObXykwdnuYzaQ3UZ99lCBOb2ASDm5U3s-4y918NuXgZPv5z6wlYO3sFs-FK9ix6BKIsUO7QUv6ztdOXH5NYVmAdqKqvD?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/qVm5vOTPzf4CkDdQmR_xDkjkVPQfkYIEi0HLQzFuJYYycsZHnyIVd1NDhoWFkz-DC1obmbPC6pf-kuWnz6DXbr3HbrPx7ngNWoM-LMGVSurbZmH4b7Xw2IpqVXdWj7DDb6yvqeRFTGNJArz0gPG1FUKhLmRPro4lqRYdiP6vjtw-wGyWtfPIZg6xboHOH-Gk?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/D0cUYdG4ZWyTaOjudcBg3o9dduWjY885e_kVJrcMLO22XUK-kEXPOLpXONWVwxO7BwyAkTzAOibo6Vu1tLrY0fGsX7B6ORuyFU2_Syqt3hQ7Q9OkErBMp3USVDUbOZXwQuVvX4Rqr6KWe-OJSLUFqW7zfJnY66HJGzgAW5E_grjvneq4cz8_CmEHe-8hNUsq?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/tX42bItfZ04e6bq0dh8SQNaz4c6WiTNjv9jmCrlKkBCT91s4kV5gPqDXoiGVlVW4y_eFd1QdDIKtrvHcUeNHpIPvgVN9nEpdRc4y5Sak7ykpRDsfq9y4xj1npcgzqSqS0A8C83UJeP3tEROAoKi8OeAsz9_96LkMlP3XC5BvXUiHMBIVmDquYj_Rq6r_PP9t?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ceo评分10分&#34;&gt;CEO评分（10分）&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;分数&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;战略眼光&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;执行力&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;技术理解&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本运作&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;市场号召力&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;综合&#34;&gt;综合：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;9.3 / 10&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-公司到底干什么&#34;&gt;② 公司到底干什么&lt;/h1&gt;
+&lt;p&gt;一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;给全球AI数据中心和企业IT提供最关键的底层零部件与软件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;核心业务：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI ASIC 定制芯片&lt;/li&gt;
+&lt;li&gt;数据中心交换芯片&lt;/li&gt;
+&lt;li&gt;光通信连接芯片&lt;/li&gt;
+&lt;li&gt;宽带 / 无线芯片&lt;/li&gt;
+&lt;li&gt;VMware 企业软件&lt;/li&gt;
+&lt;li&gt;网络基础设施软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-为什么存在&#34;&gt;③ 为什么存在&lt;/h1&gt;
+&lt;p&gt;AI 数据中心爆发后，需要：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>胜超日常：亚马逊AMZN（Amazon.com, Inc.）美股分析（5）</title>
       <link>http://localhost:1313/posts/amzn/</link>
