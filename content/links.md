@@ -14,6 +14,6 @@ title: "友情链接"
 
 <a href="https://ysc.shengchao.vip/" target="_blank" rel="noopener">艺术村</a>
 
-<a href="https://shengchao.vip/" target="_blank" rel="noopener">胜超日常</a>
+<a href="https://buffett.shengchao.vip/" target="_blank" rel="noopener">胜超日常</a>
 
 
