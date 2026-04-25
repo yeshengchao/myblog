@@ -1,6 +1,6 @@
 +++
 date = '2026-04-25T11:00:38+08:00'
-draft = flase
+draft = false
 title = '胜超日常：元宇宙META（Meta Platforms, Inc.）美股分析（8）'
 tags = ["meta", "Facebook", "美股", "美股七姐妹"]
 +++
