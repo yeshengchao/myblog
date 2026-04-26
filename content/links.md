@@ -16,4 +16,8 @@ title: "友情链接"
 
 <a href="https://buffett.shengchao.vip/" target="_blank" rel="noopener">巴菲特</a>
 
+<a href="https://api.shengchao.vip/" target="_blank" rel="noopener">API</a>
+
+
+
 

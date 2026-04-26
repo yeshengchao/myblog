@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 胜超日常</title>
-    <link>https://shengchao.vip/category/</link>
+    <link>http://localhost:1313/category/</link>
     <description>Recent content in Categories on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 21 Apr 2026 10:59:01 +0800</lastBuildDate>
-    <atom:link href="https://shengchao.vip/category/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>胜超日常：币安人生</title>
-      <link>https://shengchao.vip/category/cz/</link>
+      <link>http://localhost:1313/category/cz/</link>
       <pubDate>Tue, 21 Apr 2026 10:59:01 +0800</pubDate>
-      <guid>https://shengchao.vip/category/cz/</guid>
+      <guid>http://localhost:1313/category/cz/</guid>
       <description>&lt;p&gt;CZ 新书《币安人生》终于发行了，去年就说要出，一直拖到现在，结果我上周刚把币安人生清掉，书就发了，每次都精准卖在起飞前，也是服了。&lt;/p&gt;
 &lt;p&gt;本来还想看看书里写的啥，上X一刷，全是撕逼，主要是跟okx徐明星的陈年恩怨，吃了一上午的瓜，不过，内容早就被扒完了，想看直接看总结：banbendaaan.com《币安人生》电子版免费看: bianrensheng.io/book&lt;/p&gt;</description>
     </item>

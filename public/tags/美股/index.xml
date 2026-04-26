@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>美股 on 胜超日常</title>
-    <link>https://shengchao.vip/tags/%E7%BE%8E%E8%82%A1/</link>
+    <link>http://localhost:1313/tags/%E7%BE%8E%E8%82%A1/</link>
     <description>Recent content in 美股 on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 25 Apr 2026 11:28:12 +0800</lastBuildDate>
-    <atom:link href="https://shengchao.vip/tags/%E7%BE%8E%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%BE%8E%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>胜超日常： 特斯拉TSLA（Tesla, Inc.）美股分析（9）</title>
-      <link>https://shengchao.vip/posts/tsla/</link>
+      <link>http://localhost:1313/posts/tsla/</link>
       <pubDate>Sat, 25 Apr 2026 11:28:12 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/tsla/</guid>
+      <guid>http://localhost:1313/posts/tsla/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;胜超日常： 特斯拉TSLA（Tesla, Inc.）美股分析（9）&lt;/p&gt;
 &lt;h2 id=&#34;-创始人--当前掌门人&#34;&gt;① 创始人 + 当前掌门人&lt;/h2&gt;
@@ -35,9 +35,9 @@
     </item>
     <item>
       <title>胜超日常：元宇宙META（Meta Platforms, Inc.）美股分析（8）</title>
-      <link>https://shengchao.vip/posts/meta/</link>
+      <link>http://localhost:1313/posts/meta/</link>
       <pubDate>Sat, 25 Apr 2026 11:00:38 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/meta/</guid>
+      <guid>http://localhost:1313/posts/meta/</guid>
       <description>&lt;p&gt;胜超日常：元宇宙META（Meta Platforms, 原Facebook）美股分析（8）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -121,9 +121,9 @@
     </item>
     <item>
       <title>胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）</title>
-      <link>https://shengchao.vip/posts/avgo/</link>
+      <link>http://localhost:1313/posts/avgo/</link>
       <pubDate>Fri, 24 Apr 2026 10:34:55 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/avgo/</guid>
+      <guid>http://localhost:1313/posts/avgo/</guid>
       <description>&lt;p&gt;胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -201,9 +201,9 @@
     </item>
     <item>
       <title>胜超日常：亚马逊AMZN（Amazon.com, Inc.）美股分析（5）</title>
-      <link>https://shengchao.vip/posts/amzn/</link>
+      <link>http://localhost:1313/posts/amzn/</link>
       <pubDate>Thu, 23 Apr 2026 09:53:07 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/amzn/</guid>
+      <guid>http://localhost:1313/posts/amzn/</guid>
       <description>&lt;p&gt;&lt;strong&gt;胜超日常：亚马逊AMZN（Amazon.com, Inc.）美股分析（5）&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -291,9 +291,9 @@
     </item>
     <item>
       <title>胜超日常：MSFT（Microsoft Corporation）美股分析（4）</title>
-      <link>https://shengchao.vip/posts/msft/</link>
+      <link>http://localhost:1313/posts/msft/</link>
       <pubDate>Wed, 22 Apr 2026 11:18:05 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/msft/</guid>
+      <guid>http://localhost:1313/posts/msft/</guid>
       <description>&lt;p&gt;胜超日常：微软MSFT（Microsoft Corporation）美股分析（4）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -368,9 +368,9 @@
     </item>
     <item>
       <title>胜超日常：AAPL（Apple Inc.）美股分析（3）</title>
-      <link>https://shengchao.vip/posts/apple/</link>
+      <link>http://localhost:1313/posts/apple/</link>
       <pubDate>Tue, 21 Apr 2026 10:59:01 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/apple/</guid>
+      <guid>http://localhost:1313/posts/apple/</guid>
       <description>&lt;p&gt;&lt;strong&gt;胜超日常：苹果AAPL（Apple Inc.）美股分析（3)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -463,9 +463,9 @@
     </item>
     <item>
       <title>胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）</title>
-      <link>https://shengchao.vip/posts/google/</link>
+      <link>http://localhost:1313/posts/google/</link>
       <pubDate>Mon, 20 Apr 2026 08:58:49 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/google/</guid>
+      <guid>http://localhost:1313/posts/google/</guid>
       <description>&lt;p&gt;胜超日常：谷歌Google / GOOGL（Alphabet Inc.）美股分析（2）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -538,9 +538,9 @@
     </item>
     <item>
       <title>胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)</title>
-      <link>https://shengchao.vip/posts/nvda/</link>
+      <link>http://localhost:1313/posts/nvda/</link>
       <pubDate>Sun, 19 Apr 2026 09:09:27 +0800</pubDate>
-      <guid>https://shengchao.vip/posts/nvda/</guid>
+      <guid>http://localhost:1313/posts/nvda/</guid>
       <description>&lt;p&gt;胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
