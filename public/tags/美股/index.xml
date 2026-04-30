@@ -2,17 +2,238 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>美股 on 胜超日常</title>
-    <link>http://localhost:60262/tags/%E7%BE%8E%E8%82%A1/</link>
+    <link>http://localhost:1313/tags/%E7%BE%8E%E8%82%A1/</link>
     <description>Recent content in 美股 on 胜超日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:02:06 +0800</lastBuildDate>
-    <atom:link href="http://localhost:60262/tags/%E7%BE%8E%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2026 16:51:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%BE%8E%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amd</title>
+      <link>http://localhost:1313/posts/amd/</link>
+      <pubDate>Thu, 30 Apr 2026 16:51:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/amd/</guid>
+      <description>&lt;p&gt;胜超日常(20)：超威半导体AMD（Advanced Micro Devices, Inc.｜NASDAQ｜美股）&lt;/p&gt;
+&lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AMD（Advanced Micro Devices, Inc.｜NASDAQ｜美股）不是普通芯片股，而是全球 AI 算力时代最强二号进攻型半导体巨头之一。&lt;/strong&gt;
+本质是 &lt;strong&gt;CPU 王者挑战者 + GPU AI追赶者 + 数据中心高成长平台 + Lisa Su 执行力溢价股&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你可以理解成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;买 AMD，不只是买芯片，而是在买英伟达之外最强大型替代方案之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人--当前ceo人物硬规则版&#34;&gt;① 创始人 + 当前CEO（人物硬规则版）&lt;/h1&gt;
+&lt;h2 id=&#34;创始人&#34;&gt;创始人&lt;/h2&gt;
+&lt;h3 id=&#34;jerry-sanders杰瑞桑德斯&#34;&gt;Jerry Sanders（杰瑞·桑德斯）&lt;/h3&gt;
+&lt;p&gt;1969年创立 AMD，硅谷传奇创业者。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/RM0VmBL0mZ50SECQLdDoJE-hjYbFS-Wn3iKwhLb2mgWRD9XDiT8HFb3My2IafjlnS1Puwxzxe6ORwnqH9m0wss71YdT_mLf2Ofc74q0SsntfWKT9UlveTRszOYaMRsios7Q-JdbSSZONqSLjpAo1z6ig8SF6MfcVziEQ1x1H-bGlvjJqNvmx2sBaQn9OIxbl?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/ohsi9sBz_R8WuKUs_nJEiVBI3-gxGkN2QR_foXIpWnVvxDoS2HHtYfZtfwtSRskh4Qq0PN1HXpgKMEkXOjObTtn4-RioOOw-Jv-z-HzXj0EEv6cQKh-UPOcMWU63m_sm-yrsLRNYMYWuiC1dj221iUqRYD4VTEGcnu8tf48ah5x8Pid3LA-yp0gu9zYRTZax?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/9XRfgelqzjjJbQLhQnsK8-r6fnj4Whrpu72usaLTM05DWOgNaRHLnvA56ohY7e47adNEn1lFvcyMEB9sSXsBGZheHGhFToJIG3y8xWKGTZtHl1boCcWeBrX_JWxFAfXovKq4J0mvzGXVAccRfdSBeuJKdgeNRLoFIqrQpr3WhbLplO_yCBWIcbbjwJV_5Nxo?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/MX1HyOdhWFmnUkiGLUGayIqkxr3cB33F0R0WQ6EZzx_WpBB4f6Z4NwYS_hL1IHoVU8Koyj1XoPoWOnLd2ajJ0DWGDxP_NbqBPHZT2690atXY8QcIhM-24q8AUKhsEcZwLVOUseo9L-eR7URNY9SbElOxLUj4jfpqDTijgp8AnF2KxrP8fZqf5ds9ia0tqf91?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/lTBudEIh3I2zZ_miF5GsUKxdegpozPCYYrOX825d6R8xFmMxeozDVjMOaqYMgbwVVeAxeL6n_SZquKeWmjPcDkwOgB8QRRFYTsNI_3jyu8lLnz_oJ7DRPR2FOMR0auzqqRsJlekgVfAH-oN8mNV4DDsB8AWhfHN2PQG7I4zfgai92Jx0cc5EIN1N3MLEfUZy?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/cEh3gAXcfi3tpXTOzrmqZ24Jwa6jP8mD00BZeZzISdstCsWzGr5rD3VdyTgwf6G9tHpsnitUHzR3iBgDCY7z6V7iACVGoto-XNHzwOyBDtLW77p2lgP8LA2x4JHNQ8VIbvbCWteTVb14YFWu-CscOQEZnayqda_7DpzO_IeNU2nkDswr_UEu4kYRRzpns-Cj?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/dw41QuI71AAPO3vv6DACkjJExA8V31EuwNpL8t5IrgDioo3ZVHtuthSr02WBHMA8zIw7to17hSyYEo5g5mlugonDSSwRy1f1Q64CGpnY1RdOoboSk47NMNozmbLDjCj3ikT3zVu0hwK4LKwvzb6srfFKghaVXwvrof3rNI5DwiDZDHd58eZTcHYHTebEOf49?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;激进型&lt;/li&gt;
+&lt;li&gt;销售天才&lt;/li&gt;
+&lt;li&gt;创业斗士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;当前-ceo&#34;&gt;当前 CEO&lt;/h2&gt;
+&lt;h3 id=&#34;lisa-su苏姿丰&#34;&gt;Lisa Su（苏姿丰）&lt;/h3&gt;
+&lt;p&gt;带领 AMD 从低谷逆袭成全球芯片巨头，被誉为半导体最强 CEO 之一。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/7iopWeZ4FfLuBHldgluXVOMwCE0mFlmsTXMdBp4lB6h5JMG9dLDofNnznb2v0riwk89wrNrvoDYv_Pue-EXjuWqPxsW0-34KOoc8upMu-8CoAdK4jrZH1IVYqU6Y7MOl3w4xrP5JixRQsPWFrxrh24aPIdrv0ie0UM5ZC_oQ1dTSL46Ej7dyk5mHT-bnSR8X?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/NyE4kFksxpFyJkD7dEUq63snzNKlsbWOignWr8SifyLC-IpgQTyOC0BAfpWnnC1-GE5WGXZURlhen6wY7QAoiPl-d1Qo6oUlfeGYO2bpxNoxX-5UV-lvXGlUeTCFvRczClsVgQ7sHvzmv3w2FuJGORpU_f3fNNauZ6cfMjSJJSFTy9NHgBGSLS8vypU5P9yb?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/EtRqnBQqJVNF7yrk2d7pgy2xLpllGGUzEQkCJjEnNiy2C3hdv_QN4oFJGEC9A_YjgHP9dtmjIfY45oRbWNewH-PcNgOgsuzPZYdwbKy-p5bo-kuOR8kG8R_M4aGBHMLBMbtgYO1R1B5-fhd4onIuXZ5L-PTRPpLDwuxpsFgj8FUWk6Fd5kiolgFlY1qaGhG8?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/iZ8OFspW2pkrhstHIBE0p0dXc5NGS8q8OZG9dSNPt5Eq6aDE2iCzLx-rWAGwhdufzkzGnMQdtTQsLsY-0palfxatwkr73LZeeScc3a1LtEG7s7NeL5CFZo8-_8FDUaBi6OJgshFhcz7HY-WFnYx2ssDEXZgcPMSGuQGf3bhFBJMo2310Vo1dPRZUR9WC-29Z?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/-oe7V-APiyQaKS8sAVDJbUUVKp4kEMaGhsxbA25F8BrUJddRuKutdD8nrA3gOLftjMXu1-MzkT0p6A4La-Ut9RNKGH7gtq_O2_qGqoL80pXlgPEgbqVKmDjPL5ojufC4y0BBOc3TITcB0KZoOz8rfGI0x0reB302nptMnBik0i1wXyyX352GW92EQ79Xu-0E?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点-1&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;冷静理性&lt;/li&gt;
+&lt;li&gt;工程师型&lt;/li&gt;
+&lt;li&gt;执行力顶级&lt;/li&gt;
+&lt;li&gt;长期主义&lt;/li&gt;
+&lt;li&gt;战略清晰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;对公司影响力&#34;&gt;对公司影响力&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;极高。AMD 的崛起几乎就是 Lisa Su 时代作品。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>胜超日常(19)：美光科技MU（Micron Technology, Inc.｜NASDAQ｜美股）</title>
+      <link>http://localhost:1313/posts/mu/</link>
+      <pubDate>Thu, 30 Apr 2026 16:51:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mu/</guid>
+      <description>&lt;p&gt;胜超日常(19)：美光科技MU（Micron Technology, Inc.｜NASDAQ｜美股）&lt;/p&gt;
+&lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;MU（Micron Technology, Inc.｜NASDAQ｜美股）不是普通芯片股，而是 AI 时代被重新估值的存储芯片核心玩家。&lt;/strong&gt;
+本质是 &lt;strong&gt;HBM 高带宽内存受益者 + DRAM 三巨头之一 + NAND 存储龙头之一 + 半导体周期高弹性标的&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你可以理解成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;买 MU，不只是买内存芯片，而是在买 AI GPU 背后的“弹药库”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人--当前ceo人物硬规则版&#34;&gt;① 创始人 + 当前CEO（人物硬规则版）&lt;/h1&gt;
+&lt;h2 id=&#34;创始人&#34;&gt;创始人&lt;/h2&gt;
+&lt;h3 id=&#34;ward-parkinson沃德帕金森&#34;&gt;Ward Parkinson（沃德·帕金森）&lt;/h3&gt;
+&lt;p&gt;1978年共同创立 Micron，推动美国存储产业发展。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/tw9Iyjgiaz6YzA6vny09N-ykMKRzARooSiMOs6MXLNYoJlgs5pT_3vKRei-GHhL67WQ-7ycPMfYpS88dtAteW-qi-8swnP2D1NC5lpj9Jhwzq8Go6kslFSxYRrRlNZeINBLkFo4bxaFmxzFitbRw5H4dPvyB5jTjuREm09x1OzXBIpbBVmLEWSbTtStLZDuR?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/Xxu3fCRlZHHSEd1Co6Srfs-3NkDR60y1_13wQ-ZlERZXdOEnGA0OLhCiV_Pz0SmXVyRVq4zsLX0JQdsYdLHfgcUzQ4EGKhBdpg9QGP4KM7yaTR3coGabejroAZ6vFs4fYSNI_zabs3hL5q2svET6vQGRE3ktIm6jndEOFxrucePD2qubyjSAb940a9ocKykO?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/tf-FZfjkV6dPdEas04vSAehoCnPxq3ICKhk-Aab37CLDaxuCT6Ub44L3rya8sQSybWp73ABlgXv-YeRG9k95tuue-zxgy3O8jJEGpBIU7VQ6tBUOZamwo4qSyqa7t8m48R1ElIYLpbkfMfjd_gQajU2I-uJ73OJyC_EO-AcmbVPzTN82XxXO_26ViNhpxC60?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/SJtxVA0sz2pUlHBw7bat4BxKn-soIBm2oCl_80K-vlK_IMayvG9wJDgzAT-E_dFPM6Jwd_avGrfi_SLJD8eBwnl_fzjwz3X_0Ffwpscbt6ND3g4sng1CwFoe1EFJU1o1-sFPyIxdG1ttrlCGGcrRGCBr2LVSTA1j2hR96t0qlXHlSilwhdOJmiP1yerlkU1R?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;工程师型&lt;/li&gt;
+&lt;li&gt;创业派&lt;/li&gt;
+&lt;li&gt;技术导向&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;当前-ceo&#34;&gt;当前 CEO&lt;/h2&gt;
+&lt;h3 id=&#34;sanjay-mehrotra桑杰梅赫罗特拉&#34;&gt;Sanjay Mehrotra（桑杰·梅赫罗特拉）&lt;/h3&gt;
+&lt;p&gt;现任 CEO，同时也是 SanDisk Corporation 联合创始人，半导体老将。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/EiA8iD-bNoOxRhC8L_zYj5vVjQhbu5rl-fnoE52bOYQTl3rObEAsdBG6rAm03ma4-EWFWqghBniHwJyctHTAB6aNLlv4DL7ZeaZteo6uSKMhAQPNng0CG5sTQg6UF4u3OTotQkmJYR4goDjPzl7GX3k_ncqO7PKJhLEadUHA9tjx0-1FZT_XXoQ6qxixB9pg?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/_7rRRFXVdcFsyGhx8tgMT3P5dAYr8ruBnDDn62-EqCZoxy7Q7kDOtDFGZNhH_6aWJVPGUZP6xVtKQvZFwW2_5veTD1ULWZVphaF2-fuWfJtbvSot5i9AFH8FljKLrQev6im84taTmeBRRsycV1e6pDyWU8eNFq2ME9_Q13bU994MdZ0OVPQ-mJIaG4jkIscy?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/Yx9we9DxlQrER1U_qAv4sdeMi6G67nEWVlCmHnA8AWESVC1tZn6f7HcjCeiksj1vmL58EGyF9a7fea8RBZm7-GsSJ2icu8x8YotKJ6Jol32QrKitSq_WnUZFOOUe4nFW81HZEFJGQ0lhUj3XWCJ_RAVW52lTL0EoXUPuqPaysuyOrVE-vI1qYulnJtsmtos2?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/opW95U_3ru4dFdeNQdqOdAyZAjRt9IrVdGrIVd6P1Ejv19diUssFHYcST8eLzuHfRGuSQRcMF3K-Q-7yyhT5a7C9-IBuVWBA-RUXmP4sphG5VroCAvr2emkX_MDih3ibkyxAS2s38yujjeFk5KZ68oQSbsp3lbwsUZL0uS58Q0Q1PXCZCvh7JMTAv0JUEhH0?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/Lq1wdZxrpj9V-y319MKWKZ96K_zaOZcfNiOhFPygf1uWzH82Fq1Op4WUBZgEDVBqLH_X9UcHv9Is5bhLSySo82-5gWWfk3oC3tFwVIUlyG9cZxdTiwl8G_yVL2qfTEmXgbYesR-_eSsgRSBOFsq3wrdbgJNzjv167poWYw5JuXkx11MZo9VafK2xqv0IVN3L?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点-1&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;稳健型&lt;/li&gt;
+&lt;li&gt;技术派 CEO&lt;/li&gt;
+&lt;li&gt;长期主义&lt;/li&gt;
+&lt;li&gt;周期管理高手&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;对公司影响力&#34;&gt;对公司影响力&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;极高。Micron 从周期股向 AI 存储股重估，CEO 战略非常关键。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ceo评分10分&#34;&gt;CEO评分（10分）&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;分数&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;战略眼光&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;执行力&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;行业理解&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;周期管理&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;市场沟通&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;综合&#34;&gt;综合：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;8.6 / 10&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>胜超日常(18)：维萨V（Visa Inc.｜NYSE｜美股）</title>
+      <link>http://localhost:1313/posts/visa/</link>
+      <pubDate>Thu, 30 Apr 2026 16:51:27 +0800</pubDate>
+      <guid>http://localhost:1313/posts/visa/</guid>
+      <description>&lt;p&gt;胜超日常(18)：维萨V（Visa Inc.｜NYSE｜美股）&lt;/p&gt;
+&lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;V（Visa Inc.｜NYSE｜美股）不是普通金融股，而是全球支付网络收费站之王。&lt;/strong&gt;
+本质是 &lt;strong&gt;信用卡支付网络霸主 + 全球消费增长抽成机器 + 高毛利轻资产平台 + 长期复利现金牛&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你可以理解成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;世界上每刷一次卡，很多时候 Visa 都要收过路费。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人--当前ceo人物硬规则版&#34;&gt;① 创始人 + 当前CEO（人物硬规则版）&lt;/h1&gt;
+&lt;h2 id=&#34;公司源头&#34;&gt;公司源头&lt;/h2&gt;
+&lt;p&gt;Visa 前身源于 Bank of America Corporation 于1958年推出的 BankAmericard，后演变为全球 Visa 网络。&lt;/p&gt;
+&lt;p&gt;并非典型单一创始人公司，因此：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无明确单一创业者，不强凑创始人图。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;当前-ceo&#34;&gt;当前 CEO&lt;/h2&gt;
+&lt;h3 id=&#34;ryan-mcinerney瑞安麦金纳尼&#34;&gt;Ryan McInerney（瑞安·麦金纳尼）&lt;/h3&gt;
+&lt;p&gt;现任 CEO，曾长期负责全球业务运营，属于内部培养型掌门人。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/V2Q1bQN0Z7NgYAChx2Spr-_RxT4q9EXWU-sLxHYSoTdCJ9sxtqwVdHEzYElpvdigd0f39b6u88E0GLQYudLY-Zr07ncfAeREqvRDNJw-8E2jResD9n7bc_db9DTw7N5I8L2ZtBUu6q42LpRv3aeUphuQ-_80V4OXi0Wejj3J618PNB9orCNo7HFQ3giLbWEP?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/33AxyR0ukEe5qZUqQgskLYMCYHDi8tnFS8009zx-IIiHVq6-IW4eiSUNC4Pegze-K-slbpkTf6c3xxlB2Wry5WuhYuV1RtyNkiVIVhq9gMEZoijeRFjJuYXFkCBdzjObB5Us4jrLIsxBOKoLz2qcZQWyDjBagfipkcw-K3qRkk_VWRrVypWQPmTdMoyDP1OX?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/oZmNQdlxm6pt09P4tHINYpz4cbwJhOSRqUAbM-J-e8ZQEQUwUnnTdY-TpYyvS3oitR45qrX6bLFi4VSm2IkW8ueYUZcs253LtZoTbGJKKq_cQj-7pNokNrR7l8OnqA8_ax1pYXnMX2ggKB4uNQ9zU4YrMtyzpdBTggXsK-zKdCEjLDhx-AfGUE5mGkW4oPUY?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/QHizVC68PgbQkDU6__tYqY_4WlFgFrk6vusMDqILaORhQ36RJOYbCsMz7j4W-Xk21rt8Q_VtCrxfvqWdUkRE3ZXVpXGAdsL9tFrDQUG3T6LuThCFpKEEFvXDEd1r9F_R7cVk2XSmWME_L_xK4mNUsrBddyQj8MtxL6h1oF_EoJwIX8EjitLn2zq6AD32NuCo?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/eiRfx9YNWyys56ujj_NnQtQ4EipBGyTkSa3UB-p48tNqITIVmnA2wrCRKbkrLGoBeHFe6bWLv9NDHObeFAUQJTstOIM-KE2DcvSPdilO-QfUOr4pTf2HMfXF3sofrkAU9y5xe-KmRBST3PUICaA-fs6GHZInJIfQksuQz10Ex5enGeyqsY7yALlCRjGjvi0D?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;稳健型&lt;/li&gt;
+&lt;li&gt;运营派&lt;/li&gt;
+&lt;li&gt;全球化思维&lt;/li&gt;
+&lt;li&gt;低调执行型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;对公司影响力&#34;&gt;对公司影响力&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;高。负责在成熟巨头基础上继续扩大全球支付版图。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ceo评分10分&#34;&gt;CEO评分（10分）&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;分数&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;战略眼光&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;执行力&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;全球运营&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本配置&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;市场号召力&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;综合&#34;&gt;综合：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;8.0 / 10&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-公司到底干什么&#34;&gt;② 公司到底干什么&lt;/h1&gt;
+&lt;p&gt;一句话：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>胜超日常（16）：埃克森美孚XOM（Exxon Mobil Corporation｜NYSE｜美股）</title>
-      <link>http://localhost:60262/posts/xom/</link>
+      <link>http://localhost:1313/posts/xom/</link>
       <pubDate>Wed, 29 Apr 2026 10:02:06 +0800</pubDate>
-      <guid>http://localhost:60262/posts/xom/</guid>
+      <guid>http://localhost:1313/posts/xom/</guid>
       <description>&lt;p&gt;胜超日常（16）：埃克森美孚XOM（Exxon Mobil Corporation｜NYSE｜美股）&lt;/p&gt;
 &lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -64,9 +285,9 @@
     </item>
     <item>
       <title>胜超日常：LLY（Eli Lilly and Company｜NYSE｜美股）美股分析（15）</title>
-      <link>http://localhost:60262/posts/lly/</link>
+      <link>http://localhost:1313/posts/lly/</link>
       <pubDate>Tue, 28 Apr 2026 15:12:56 +0800</pubDate>
-      <guid>http://localhost:60262/posts/lly/</guid>
+      <guid>http://localhost:1313/posts/lly/</guid>
       <description>&lt;p&gt;胜超日常：LLY（Eli Lilly and Company｜NYSE｜美股）美股分析（15）&lt;/p&gt;
 &lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -150,9 +371,9 @@
     </item>
     <item>
       <title>胜超日常：摩根大通JPM（JPMorgan Chase &amp; Co.｜NYSE｜美股）美股分析（14）</title>
-      <link>http://localhost:60262/posts/jpm/</link>
+      <link>http://localhost:1313/posts/jpm/</link>
       <pubDate>Tue, 28 Apr 2026 15:04:34 +0800</pubDate>
-      <guid>http://localhost:60262/posts/jpm/</guid>
+      <guid>http://localhost:1313/posts/jpm/</guid>
       <description>&lt;p&gt;胜超日常：摩根大通JPM（JPMorgan Chase &amp;amp; Co.｜NYSE｜美股）美股分析（14）&lt;/p&gt;
 &lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -238,9 +459,9 @@
     </item>
     <item>
       <title>胜超日常：伯克希尔·哈撒韦BRK-B（Berkshire Hathaway Inc.）美股分析（12)</title>
-      <link>http://localhost:60262/posts/brk-b/</link>
+      <link>http://localhost:1313/posts/brk-b/</link>
       <pubDate>Mon, 27 Apr 2026 13:14:35 +0800</pubDate>
-      <guid>http://localhost:60262/posts/brk-b/</guid>
+      <guid>http://localhost:1313/posts/brk-b/</guid>
       <description>&lt;p&gt;胜超日常：伯克希尔·哈撒韦BRK-B（Berkshire Hathaway Inc.）美股分析（12)&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -325,9 +546,9 @@
     </item>
     <item>
       <title>胜超日常：沃尔玛 WMT（Walmart Inc.）美股分析（11）</title>
-      <link>http://localhost:60262/posts/wmt/</link>
+      <link>http://localhost:1313/posts/wmt/</link>
       <pubDate>Sun, 26 Apr 2026 11:00:49 +0800</pubDate>
-      <guid>http://localhost:60262/posts/wmt/</guid>
+      <guid>http://localhost:1313/posts/wmt/</guid>
       <description>&lt;p&gt;胜超日常：沃尔玛WMT（Walmart Inc.）美股分析（11）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -414,9 +635,9 @@
     </item>
     <item>
       <title>胜超日常： 特斯拉TSLA（Tesla, Inc.）美股分析（9）</title>
-      <link>http://localhost:60262/posts/tsla/</link>
+      <link>http://localhost:1313/posts/tsla/</link>
       <pubDate>Sat, 25 Apr 2026 11:28:12 +0800</pubDate>
-      <guid>http://localhost:60262/posts/tsla/</guid>
+      <guid>http://localhost:1313/posts/tsla/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;胜超日常： 特斯拉TSLA（Tesla, Inc.）美股分析（9）&lt;/p&gt;
 &lt;h2 id=&#34;-创始人--当前掌门人&#34;&gt;① 创始人 + 当前掌门人&lt;/h2&gt;
@@ -439,9 +660,9 @@
     </item>
     <item>
       <title>胜超日常：元宇宙META（Meta Platforms, Inc.）美股分析（8）</title>
-      <link>http://localhost:60262/posts/meta/</link>
+      <link>http://localhost:1313/posts/meta/</link>
       <pubDate>Sat, 25 Apr 2026 11:00:38 +0800</pubDate>
-      <guid>http://localhost:60262/posts/meta/</guid>
+      <guid>http://localhost:1313/posts/meta/</guid>
       <description>&lt;p&gt;胜超日常：元宇宙META（Meta Platforms, 原Facebook）美股分析（8）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -525,9 +746,9 @@
     </item>
     <item>
       <title>胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）</title>
-      <link>http://localhost:60262/posts/avgo/</link>
+      <link>http://localhost:1313/posts/avgo/</link>
       <pubDate>Fri, 24 Apr 2026 10:34:55 +0800</pubDate>
-      <guid>http://localhost:60262/posts/avgo/</guid>
+      <guid>http://localhost:1313/posts/avgo/</guid>
       <description>&lt;p&gt;胜超日常：博通AVGO（Broadcom Inc.）美股分析（6）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -605,9 +826,9 @@
     </item>
     <item>
       <title>胜超日常：亚马逊AMZN（Amazon.com, Inc.）美股分析（5）</title>
-      <link>http://localhost:60262/posts/amzn/</link>
+      <link>http://localhost:1313/posts/amzn/</link>
       <pubDate>Thu, 23 Apr 2026 09:53:07 +0800</pubDate>
-      <guid>http://localhost:60262/posts/amzn/</guid>
+      <guid>http://localhost:1313/posts/amzn/</guid>
       <description>&lt;p&gt;&lt;strong&gt;胜超日常：亚马逊AMZN（Amazon.com, Inc.）美股分析（5）&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -695,9 +916,9 @@
     </item>
     <item>
       <title>胜超日常：MSFT（Microsoft Corporation）美股分析（4）</title>
-      <link>http://localhost:60262/posts/msft/</link>
+      <link>http://localhost:1313/posts/msft/</link>
       <pubDate>Wed, 22 Apr 2026 11:18:05 +0800</pubDate>
-      <guid>http://localhost:60262/posts/msft/</guid>
+      <guid>http://localhost:1313/posts/msft/</guid>
       <description>&lt;p&gt;胜超日常：微软MSFT（Microsoft Corporation）美股分析（4）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -772,9 +993,9 @@
     </item>
     <item>
       <title>胜超日常：AAPL（Apple Inc.）美股分析（3）</title>
-      <link>http://localhost:60262/posts/apple/</link>
+      <link>http://localhost:1313/posts/apple/</link>
       <pubDate>Tue, 21 Apr 2026 10:59:01 +0800</pubDate>
-      <guid>http://localhost:60262/posts/apple/</guid>
+      <guid>http://localhost:1313/posts/apple/</guid>
       <description>&lt;p&gt;&lt;strong&gt;胜超日常：苹果AAPL（Apple Inc.）美股分析（3)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -867,9 +1088,9 @@
     </item>
     <item>
       <title>胜超日常：Google / GOOGL（Alphabet Inc.）美股分析（2）</title>
-      <link>http://localhost:60262/posts/google/</link>
+      <link>http://localhost:1313/posts/google/</link>
       <pubDate>Mon, 20 Apr 2026 08:58:49 +0800</pubDate>
-      <guid>http://localhost:60262/posts/google/</guid>
+      <guid>http://localhost:1313/posts/google/</guid>
       <description>&lt;p&gt;胜超日常：谷歌Google / GOOGL（Alphabet Inc.）美股分析（2）&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -942,9 +1163,9 @@
     </item>
     <item>
       <title>胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)</title>
-      <link>http://localhost:60262/posts/nvda/</link>
+      <link>http://localhost:1313/posts/nvda/</link>
       <pubDate>Sun, 19 Apr 2026 09:09:27 +0800</pubDate>
-      <guid>http://localhost:60262/posts/nvda/</guid>
+      <guid>http://localhost:1313/posts/nvda/</guid>
       <description>&lt;p&gt;胜超日常：英伟达NVDA（NVIDIA Corporation）美股分析(1)&lt;/p&gt;
 &lt;p&gt;一句话先定性：&lt;/p&gt;
 &lt;blockquote&gt;

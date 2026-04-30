@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AMD on 胜超日常</title>
+    <link>http://localhost:1313/tags/amd/</link>
+    <description>Recent content in AMD on 胜超日常</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Apr 2026 16:51:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amd</title>
+      <link>http://localhost:1313/posts/amd/</link>
+      <pubDate>Thu, 30 Apr 2026 16:51:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/amd/</guid>
+      <description>&lt;p&gt;胜超日常(20)：超威半导体AMD（Advanced Micro Devices, Inc.｜NASDAQ｜美股）&lt;/p&gt;
+&lt;h2 id=&#34;一句话先定性&#34;&gt;一句话先定性：&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AMD（Advanced Micro Devices, Inc.｜NASDAQ｜美股）不是普通芯片股，而是全球 AI 算力时代最强二号进攻型半导体巨头之一。&lt;/strong&gt;
+本质是 &lt;strong&gt;CPU 王者挑战者 + GPU AI追赶者 + 数据中心高成长平台 + Lisa Su 执行力溢价股&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你可以理解成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;买 AMD，不只是买芯片，而是在买英伟达之外最强大型替代方案之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-创始人--当前ceo人物硬规则版&#34;&gt;① 创始人 + 当前CEO（人物硬规则版）&lt;/h1&gt;
+&lt;h2 id=&#34;创始人&#34;&gt;创始人&lt;/h2&gt;
+&lt;h3 id=&#34;jerry-sanders杰瑞桑德斯&#34;&gt;Jerry Sanders（杰瑞·桑德斯）&lt;/h3&gt;
+&lt;p&gt;1969年创立 AMD，硅谷传奇创业者。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/RM0VmBL0mZ50SECQLdDoJE-hjYbFS-Wn3iKwhLb2mgWRD9XDiT8HFb3My2IafjlnS1Puwxzxe6ORwnqH9m0wss71YdT_mLf2Ofc74q0SsntfWKT9UlveTRszOYaMRsios7Q-JdbSSZONqSLjpAo1z6ig8SF6MfcVziEQ1x1H-bGlvjJqNvmx2sBaQn9OIxbl?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/ohsi9sBz_R8WuKUs_nJEiVBI3-gxGkN2QR_foXIpWnVvxDoS2HHtYfZtfwtSRskh4Qq0PN1HXpgKMEkXOjObTtn4-RioOOw-Jv-z-HzXj0EEv6cQKh-UPOcMWU63m_sm-yrsLRNYMYWuiC1dj221iUqRYD4VTEGcnu8tf48ah5x8Pid3LA-yp0gu9zYRTZax?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/9XRfgelqzjjJbQLhQnsK8-r6fnj4Whrpu72usaLTM05DWOgNaRHLnvA56ohY7e47adNEn1lFvcyMEB9sSXsBGZheHGhFToJIG3y8xWKGTZtHl1boCcWeBrX_JWxFAfXovKq4J0mvzGXVAccRfdSBeuJKdgeNRLoFIqrQpr3WhbLplO_yCBWIcbbjwJV_5Nxo?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/MX1HyOdhWFmnUkiGLUGayIqkxr3cB33F0R0WQ6EZzx_WpBB4f6Z4NwYS_hL1IHoVU8Koyj1XoPoWOnLd2ajJ0DWGDxP_NbqBPHZT2690atXY8QcIhM-24q8AUKhsEcZwLVOUseo9L-eR7URNY9SbElOxLUj4jfpqDTijgp8AnF2KxrP8fZqf5ds9ia0tqf91?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/lTBudEIh3I2zZ_miF5GsUKxdegpozPCYYrOX825d6R8xFmMxeozDVjMOaqYMgbwVVeAxeL6n_SZquKeWmjPcDkwOgB8QRRFYTsNI_3jyu8lLnz_oJ7DRPR2FOMR0auzqqRsJlekgVfAH-oN8mNV4DDsB8AWhfHN2PQG7I4zfgai92Jx0cc5EIN1N3MLEfUZy?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/cEh3gAXcfi3tpXTOzrmqZ24Jwa6jP8mD00BZeZzISdstCsWzGr5rD3VdyTgwf6G9tHpsnitUHzR3iBgDCY7z6V7iACVGoto-XNHzwOyBDtLW77p2lgP8LA2x4JHNQ8VIbvbCWteTVb14YFWu-CscOQEZnayqda_7DpzO_IeNU2nkDswr_UEu4kYRRzpns-Cj?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/dw41QuI71AAPO3vv6DACkjJExA8V31EuwNpL8t5IrgDioo3ZVHtuthSr02WBHMA8zIw7to17hSyYEo5g5mlugonDSSwRy1f1Q64CGpnY1RdOoboSk47NMNozmbLDjCj3ikT3zVu0hwK4LKwvzb6srfFKghaVXwvrof3rNI5DwiDZDHd58eZTcHYHTebEOf49?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;激进型&lt;/li&gt;
+&lt;li&gt;销售天才&lt;/li&gt;
+&lt;li&gt;创业斗士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;当前-ceo&#34;&gt;当前 CEO&lt;/h2&gt;
+&lt;h3 id=&#34;lisa-su苏姿丰&#34;&gt;Lisa Su（苏姿丰）&lt;/h3&gt;
+&lt;p&gt;带领 AMD 从低谷逆袭成全球芯片巨头，被誉为半导体最强 CEO 之一。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/7iopWeZ4FfLuBHldgluXVOMwCE0mFlmsTXMdBp4lB6h5JMG9dLDofNnznb2v0riwk89wrNrvoDYv_Pue-EXjuWqPxsW0-34KOoc8upMu-8CoAdK4jrZH1IVYqU6Y7MOl3w4xrP5JixRQsPWFrxrh24aPIdrv0ie0UM5ZC_oQ1dTSL46Ej7dyk5mHT-bnSR8X?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/NyE4kFksxpFyJkD7dEUq63snzNKlsbWOignWr8SifyLC-IpgQTyOC0BAfpWnnC1-GE5WGXZURlhen6wY7QAoiPl-d1Qo6oUlfeGYO2bpxNoxX-5UV-lvXGlUeTCFvRczClsVgQ7sHvzmv3w2FuJGORpU_f3fNNauZ6cfMjSJJSFTy9NHgBGSLS8vypU5P9yb?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/EtRqnBQqJVNF7yrk2d7pgy2xLpllGGUzEQkCJjEnNiy2C3hdv_QN4oFJGEC9A_YjgHP9dtmjIfY45oRbWNewH-PcNgOgsuzPZYdwbKy-p5bo-kuOR8kG8R_M4aGBHMLBMbtgYO1R1B5-fhd4onIuXZ5L-PTRPpLDwuxpsFgj8FUWk6Fd5kiolgFlY1qaGhG8?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/iZ8OFspW2pkrhstHIBE0p0dXc5NGS8q8OZG9dSNPt5Eq6aDE2iCzLx-rWAGwhdufzkzGnMQdtTQsLsY-0palfxatwkr73LZeeScc3a1LtEG7s7NeL5CFZo8-_8FDUaBi6OJgshFhcz7HY-WFnYx2ssDEXZgcPMSGuQGf3bhFBJMo2310Vo1dPRZUR9WC-29Z?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image&#34; loading=&#34;lazy&#34; src=&#34;https://images.openai.com/static-rsc-4/-oe7V-APiyQaKS8sAVDJbUUVKp4kEMaGhsxbA25F8BrUJddRuKutdD8nrA3gOLftjMXu1-MzkT0p6A4La-Ut9RNKGH7gtq_O2_qGqoL80pXlgPEgbqVKmDjPL5ojufC4y0BBOc3TITcB0KZoOz8rfGI0x0reB302nptMnBik0i1wXyyX352GW92EQ79Xu-0E?purpose=fullsize&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点-1&#34;&gt;性格特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;冷静理性&lt;/li&gt;
+&lt;li&gt;工程师型&lt;/li&gt;
+&lt;li&gt;执行力顶级&lt;/li&gt;
+&lt;li&gt;长期主义&lt;/li&gt;
+&lt;li&gt;战略清晰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;对公司影响力&#34;&gt;对公司影响力&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;极高。AMD 的崛起几乎就是 Lisa Su 时代作品。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
